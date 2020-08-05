@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.post {
+  background-color: ghostwhite;
+  color: #777777;
+  max-width: 1200px;
+  border-radius: 0.3rem;
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.contents {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 80%;
+}
